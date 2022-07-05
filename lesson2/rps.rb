@@ -19,6 +19,7 @@ def display_results(player, computer)
     prompt("It's a tie!")
   end
 end
+
 loop do
   choice = ''
   loop do
